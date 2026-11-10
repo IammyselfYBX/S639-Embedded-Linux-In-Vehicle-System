@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/weather.png</file>
+        <file>pic/map.png</file>
+        <file>pic/music.png</file>
+        <file>pic/video.png</file>
+    </qresource>
+</RCC>

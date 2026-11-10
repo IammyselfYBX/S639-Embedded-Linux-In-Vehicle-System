@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/map_background.jpg</file>
+        <file>pic/zoom_m.png</file>
+        <file>pic/zoom_p.png</file>
+    </qresource>
+</RCC>
